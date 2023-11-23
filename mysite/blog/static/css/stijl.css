@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(117, 0, 4);
+    color: black;
+}
+
+h1, h3 {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-left: 50px;
+}
+
+header {
+    background-color: orange;
+    border: 50px solid transparent; /* Voeg een grote doorzichtige rand toe */
+}
+
+article {
+    background-color: hotpink;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 450px;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+footer {
+    background-color: orange;
+    border: 50px solid transparent; /* Voeg een grote doorzichtige rand toe */
+}
+
+a{
+    color: black
+}
